@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **Programming Hero Courses**
 
-  <h3>Email -**md.sifat.ur.rahman2702@gmail.com**</h3>
+-  <h3>Email -**<a>md.sifat.ur.rahman2702@gmail.com</a>**</h3>
+  
 - 👨‍💻 All of my projects are available at [https://flourishing-custard-0b8aac.netlify.app/](https://flourishing-custard-0b8aac.netlify.app/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1iXPSd9xiodDA95Y8S7eG0OPl1tcmW871/view?usp=share_link](https://drive.google.com/file/d/1iXPSd9xiodDA95Y8S7eG0OPl1tcmW871/view?usp=share_link)

@@ -1,10 +1,10 @@
 ![logo](https://github.com/sifat-ur-rahman/sifat-ur-rahman/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Md Sifat Ur Rahman</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sifat-ur-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="sifat-ur-rahman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sifat-ur-rahman" alt="sifat-ur-rahman" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://sifat-4e9bc.web.app/](https://sifat-4e9bc.web.app/)
 

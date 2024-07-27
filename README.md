@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sifat-4e9bc.web.app/](https://sifat-4e9bc.web.app/)
 
-- 📝 I regularly write articles on [https://sifat-4e9bc.web.app/blog](https://sifat-4e9bc.web.app/blog)
+- 📝 I regularly write articles on [https://sifat-4e9bc.web.app/blog](https://sifat-4e9bc.web.app/blogs)
 
 - 💬 Ask me about **Javascript, React js, Nextjs, Express js, Typescript, Redux, prisma, PostgreSQ**
 

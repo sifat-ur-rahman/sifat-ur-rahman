@@ -8,13 +8,11 @@
 
 - 👨‍💻 All of my projects are available at  [sifat-portfolio](https://sifat-4e9bc.web.app/)
 
-- 📝 I regularly write articles on [sifat-blogs](https://sifat-4e9bc.web.app/blogs)
-
 - 💬 Ask me about **Javascript, React js, Nextjs, Express js, Typescript, Redux, prisma, PostgreSQ**
 
 - 📫 How to reach me **md.sifat.ur.rahman2702@gmail.com**
 
-- 📄 Know about my experiences [sifat-resume](https://drive.google.com/file/d/1iXPSd9xiodDA95Y8S7eG0OPl1tcmW871/view?usp=share_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

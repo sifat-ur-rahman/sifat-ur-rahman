@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at  [sifat-portfolio](https://sifat-4e9bc.web.app/)
 
-- 💬 Ask me about **Javascript, React js, Nextjs, Express js, Typescript, Redux, prisma, PostgreSQ**
+- 💬 Ask me about **Javascript, Typescript, React js, Nextjs, Express js,  Redux, prisma, PostgreSQ**
 
 - 📫 How to reach me **md.sifat.ur.rahman2702@gmail.com**
 

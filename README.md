@@ -1,6 +1,5 @@
 ![logo](https://github.com/sifat-ur-rahman/sifat-ur-rahman/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.gif)
-<h1 align="center">Hi 👋, I'm Md Sifat Ur Rahman</h1>
-<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
+
 
 
 

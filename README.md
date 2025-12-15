@@ -16,7 +16,7 @@ I mainly work with **Next.js, React, and TypeScript**, focusing on clean code, r
 ---
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sifat.ur.rahman.bd/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sifat-ur-rahman) 
 
 # 💻 Tech Stack:

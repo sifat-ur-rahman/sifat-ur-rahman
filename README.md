@@ -2,10 +2,18 @@
 
 
 
+# 💫 About Me
 
+I’m **Sifat Ur Rahman**, a passionate Full-Stack Web Developer who enjoys building modern, scalable, and real-world web applications.
 
-# 💫 About Me:
-👋 Hi there! I'm a passionate full-stack developer with a focus on building clean, efficient, and user-friendly web applications. I love working with JavaScript, TypeScript, React, and Next.js, and I'm always exploring new technologies to solve real-world problems.<br><br><br>💡 Interests: Web development, UI/UX, open source<br>📫 Let's connect: md.sifat.ur.rahman2702@gmail.com<br><br>
+I mainly work with **Next.js, React, and TypeScript**, focusing on clean code, reusable components, and performance-first development. I love turning ideas into functional products and continuously improving my skills through hands-on projects.
+
+- 🔭 Currently building **dashboards, SaaS features & e-commerce platforms**
+- 🌱 Learning advanced **Next.js patterns & backend optimization**
+- 💬 Ask me about **React, Next.js, TypeScript, MongoDB**
+- ⚡ Fun fact: I enjoy solving real-world problems with simple code
+
+---
 
 
 ## 🌐 Socials:

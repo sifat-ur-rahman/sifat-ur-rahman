@@ -17,13 +17,14 @@ I mainly work with **Next.js, React, and TypeScript**, focusing on clean code, r
 
 
 # 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sifat.ur.rahman.bd/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sifat-ur-rahman) 
-
+<a href="https://linkedin.com/in/sifat-ur-rahman" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" style="margin:5px"/>
+</a>
 
 
 # 💻 Tech Stack
 
-<div align="center">
+<div >
 
 <!-- Glass Card Start -->
 <div 
@@ -43,7 +44,7 @@ I mainly work with **Next.js, React, and TypeScript**, focusing on clean code, r
 <br/>
 <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,aws,nginx,docker" />
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,npm,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,githubactions,npm,postman" />
 <br/>
 
 

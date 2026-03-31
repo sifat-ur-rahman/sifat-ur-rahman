@@ -55,17 +55,23 @@ I mainly work with **Next.js, React, and TypeScript**, focusing on clean code, r
 
 # 📊 GitHub Stats:
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sifat-ur-rahman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sifat-ur-rahman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://nirzak-streak-stats.vercel.app/?user=sifat-ur-rahman&theme=dark&hide_border=false) -->
+![](https://nirzak-streak-stats.vercel.app/?user=sifat-ur-rahman&theme=dark&hide_border=false) 
 
-  <p align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sifat-ur-rahman&theme=dark)](https://git.io/streak-stats)
+
+
+<!--  <p align="center">
   <img src="https://streak-stats.demolab.com?user=sifat-ur-rahman&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- [![](https://visitcount.itsvg.in/api?id=sifat-ur-rahman&icon=0&color=0)](https://visitcount.itsvg.in) -->
+  ![](https://streak-stats.demolab.com?user=sifat-ur-rahman&theme=tokyonight&hide_border=true)
+  
+ [![](https://visitcount.itsvg.in/api?id=sifat-ur-rahman&icon=0&color=0)](https://visitcount.itsvg.in) 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Software+Engineer+%7C+MERN+stack;Building+Scalable+Web+Apps;UI%2FUX+Focused+Developer" />
 </p>

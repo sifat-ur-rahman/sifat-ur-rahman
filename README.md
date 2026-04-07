@@ -56,9 +56,9 @@ I mainly work with **Next.js, React, and TypeScript**, focusing on clean code, r
 # 📊 GitHub Stats:
 
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sifat-ur-rahman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<!--
 ![](https://nirzak-streak-stats.vercel.app/?user=sifat-ur-rahman&theme=dark&hide_border=false) 
-
+-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sifat-ur-rahman&theme=dark)](https://git.io/streak-stats)
 

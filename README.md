@@ -55,7 +55,7 @@ I mainly work with **Next.js, React, and TypeScript**, focusing on clean code, r
 
 # 
 <p>
-  <img src="https://yourinsights.vercel.app/api/insight?username=sifat-ur-rahman&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=sifat-ur-rahman&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
 </p>
 
  

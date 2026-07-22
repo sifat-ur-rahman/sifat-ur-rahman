@@ -13,13 +13,19 @@ I mainly work with **Next.js, React, and TypeScript**, focusing on clean code, r
 - 💬 Ask me about **React, Next.js, TypeScript, MongoDB**
 - ⚡ Fun fact: I enjoy solving real-world problems with simple code
 
----
 
 
-# 🌐 Socials:
+# 🔗 Socials & Profiles
+
 <a href="https://linkedin.com/in/sifat-ur-rahman" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" style="margin:5px"/>
 </a>
+
+<a href="https://leetcode.com/u/sifat-ur-rahman/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="40" style="margin:5px"/>
+</a>
+
+
 
 
 # 💻 Tech Stack

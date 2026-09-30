@@ -1,6 +1,4 @@
-![logo](https://github.com/sifat-ur-rahman/sifat-ur-rahman/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.gif)
-
-
+![logo](./banner.svg)
 
 # 💫 About Me
 

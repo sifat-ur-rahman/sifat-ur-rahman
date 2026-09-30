@@ -1,4 +1,4 @@
-![logo](./banner.svg)
+![logo](https://github.com/sifat-ur-rahman/sifat-ur-rahman/blob/main/banner.svg)
 
 # 💫 About Me
 

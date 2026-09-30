@@ -1,5 +1,4 @@
-
-
+![logo](./banner.svg)
 
 # 💫 About Me
 

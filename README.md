@@ -33,9 +33,10 @@ I mainly work with **Next.js, React, and TypeScript**, focusing on clean code, r
 <!-- Glass Card Start -->
 <div 
 >
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
+<br/>
 
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,vue" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,vue" />
 <br/>
 
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" />
